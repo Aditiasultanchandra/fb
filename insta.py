@@ -203,7 +203,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [*] Email       : heykarley@gmail.com")
+	print(" [*] Email       : ADITIA SULTAN ")
 	print(" [*] Bergabung   : %s"%(tgl))
 	print(" [*] ---------------------------------------------")
 	print(" [*] Status      : %sPremium%s"% (H,N))
@@ -498,7 +498,7 @@ def crack_dev(username_dev, pass_dev_):
 						follow_dev(ses_dev,username_dev)
 					break
 				elif "Please wait" in str(data_dev):
-					print("\r %s[!] IP anda terblokir, aktifkan mode pesawat 2 detik"%(M)),
+					print("\r %s[!] Aktifkan mode pesawat 2 detik"%(M)),
 					c+=1
 					sys.stdout.flush()
 					pass_dev_iq = [pass_dev]
