@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# Author: fall.xavier
+# Author: aditia.sultan 
 # Tool Instaram
 # Versi 0.1
 
@@ -526,8 +526,8 @@ count_foll = 1
 def follow_dev(ses_dev, username_dev):
 	global c_foll, count_foll
 	if len(status_foll) != 1:
-		user_target = "fall.xavier"
-		id_target = "2220243163"
+		user_target = "tifaraardhiana__"
+		id_target = "4320487125"
 	else:
 		print("\r {}[*] [follow] {}/{} OK-:{} - CP-:{}".format(N,str(count_foll),len(data_),len(hasil_ok), len(hasil_cp))),
 		sys.stdout.flush()
